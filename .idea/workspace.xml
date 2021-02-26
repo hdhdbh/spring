@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/springbatis1/entity/NewsUser.java" line="6" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86c447e6-ae95-44b9-ad7b-e2e32d6df2c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow$AopStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow$Aspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow$NodeStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow$Pointcut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow$Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/AopShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/LogBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/Say.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aop/show/ServiceBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopdemo/aop/AnnotationAop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopdemo/aop/ServiceLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopdemo/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopdemo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopdemo/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/aopshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/apodemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cglibproxy/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cglibproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cglibproxy/TestCglibProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cglibproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Controller1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/ScopeBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/collection/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/collection/NewPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/cosplay/beans/collection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/PersonDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/update/Interceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/update/JdkProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/update/Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/update/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/dynamicproxy/update/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/staticproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/staticproxy/PersonDaoProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/staticproxy/PersonImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/staticproxy/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/staticproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/ChildBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/Dom4j.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/FatherBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/IocShow$ConstructorArgStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/IocShow$NodeStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/IocShow$PropertyStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioc/show/IocShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/iocshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/propagation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/propagation/TestPropagation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/propagation/TestPropagation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-batis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring-batis1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis/entity/NewsUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis1/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis1/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis1/entity/NewsUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis1/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springbatis1/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow$AopStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow$Aspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow$NodeStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow$Pointcut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow$Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/AopShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/LogBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/Say.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aop/show/ServiceBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopdemo/aop/AnnotationAop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopdemo/aop/ServiceLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopdemo/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopdemo/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopdemo/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/aopshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/apodemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/applicationContext1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cglibproxy/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cglibproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cglibproxy/TestCglibProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cglibproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Controller1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/ScopeBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/collection/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/collection/NewPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/cosplay/beans/collection/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/PersonDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/update/Interceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/update/JdkProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/update/Logger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/update/MyInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/dynamicproxy/update/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/staticproxy/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/staticproxy/PersonDaoProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/staticproxy/PersonImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/staticproxy/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/com/staticproxy/Transaction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/ChildBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/Dom4j.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/FatherBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/IocShow$ConstructorArgStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/IocShow$NodeStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/IocShow$PropertyStruct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/ioc/show/IocShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/iocshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/spring-batis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/spring-batis1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis/entity/NewsUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis1/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis1/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis1/entity/NewsUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis1/service/Impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/classes/springbatis1/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/HikariCP-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/classmate-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-collections4-4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-compress-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/commons-math3-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/curvesapi-1.05.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/hibernate-validator-6.0.18.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jackson-annotations-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/javax.servlet-api-4.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jcl-over-slf4j-1.7.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jsqlparser-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/jstl-api-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/logback-classic-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/logback-core-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/logback-ext-spring-0.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/mybatis-spring-2.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/mysql-connector-java-5.1.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/pagehelper-5.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/poi-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/poi-ooxml-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/poi-ooxml-schemas-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/slf4j-api-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-aspects-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-context-support-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/xml-apis-1.0.b2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/lib/xmlbeans-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springlession/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-batis.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/propagation/TestPropagation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="55" column="51" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/propagation/TestPropagation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/propagation.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+              <folding>
+                <element signature="n#value#0;n#property#0;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+                <element signature="n#value#0;n#property#1;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+                <element signature="n#value#0;n#property#2;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+                <element signature="n#value#0;n#property#3;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring-batis1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>resume</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cosplay/beans/Other.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/staticproxy/PersonDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/staticproxy/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/staticproxy/PersonDaoProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/staticproxy/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/PersonDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/PersonDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/staticproxy/PersonImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/Nyinterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/update/Interceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/update/Logger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/update/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/update/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dynamicproxy/update/JdkProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cglibproxy/PersonDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cglibproxy/Transaction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cglibproxy/MyInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ioc/show/Dom4j.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ioc/show/IocShow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cglibproxy/TestCglibProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aopdemo/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aopdemo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aopdemo/aop/ServiceLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aopdemo/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/aopdemo/aop/AnnotationAop.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/apodemo.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis1/entity/NewsUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis1/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis1/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis1/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-batis1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis1/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis/NewsUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis/entity/NewsUser.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/springbatis/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/propagation/TestPropagation2.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/propagation.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-batis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/propagation/TestPropagation1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\.m2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="102" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aopdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springboot\spring\src\main\resources" />
+      <recent name="D:\springboot\spring\src\main\java\springbatis" />
+      <recent name="D:\springboot\spring\src\main\java\aop\show" />
+      <recent name="D:\springboot\spring\src\main\java\ioc\show" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="springbatis.dao" />
+      <recent name="springbatis" />
+      <recent name="com.cglibproxy" />
+      <recent name="com.dynamicproxy.update" />
+      <recent name="com.dynamicproxy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\springboot\spring\src\main\resources" />
+      <recent name="D:\springboot\spring\src\main\webapp\WEB-INF" />
+      <recent name="D:\springboot\spring\src\main\webapp" />
+      <recent name="D:\springboot\spring\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestPropagation1">
+    <configuration name="AopShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop.show.AopShow" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop.show.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dom4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ioc.show.Dom4j" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ioc.show.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IocShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ioc.show.IocShow" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ioc.show.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPropagation1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="propagation.TestPropagation1" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="propagation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aopdemo.test" />
+      <module name="spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aopdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/spring_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/spring_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56305" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AopShow" />
+      <item itemvalue="Application.Dom4j" />
+      <item itemvalue="Application.IocShow" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.39" />
+      <item itemvalue="Application.TestPropagation1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPropagation1" />
+        <item itemvalue="Application.AopShow" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.IocShow" />
+        <item itemvalue="Application.Dom4j" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86c447e6-ae95-44b9-ad7b-e2e32d6df2c0" name="Default Changelist" comment="" />
+      <created>1614044285366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614044285366</updated>
+      <workItem from="1614044288702" duration="4115000" />
+      <workItem from="1614048675992" duration="15542000" />
+      <workItem from="1614127112726" duration="4081000" />
+      <workItem from="1614132322433" duration="9186000" />
+      <workItem from="1614147018831" duration="47000" />
+      <workItem from="1614147092360" duration="7905000" />
+      <workItem from="1614213384227" duration="21359000" />
+      <workItem from="1614249354488" duration="137000" />
+      <workItem from="1614317454042" duration="11555000" />
+    </task>
+    <task id="LOCAL-00001" summary="newSpring">
+      <created>1614326620507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614326620507</updated>
+    </task>
+    <task id="LOCAL-00002" summary="newSpring">
+      <created>1614326737795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614326737795</updated>
+    </task>
+    <task id="LOCAL-00003" summary="newSpring">
+      <created>1614328619855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614328619855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="newSpring">
+      <created>1614328834447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614328834447</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73927000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20703125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" sideWeight="0.49934897" weight="0.23626374" />
+      <window_info anchor="bottom" id="Application Servers" order="0" weight="0.32921812" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.35714287" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50065106" side_tool="true" weight="0.23626374" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3282967" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="15" visible="true" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="newSpring" />
+    <option name="LAST_COMMIT_MESSAGE" value="newSpring" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cglibproxy/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/show/Dom4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/show/IocShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/iocshow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/show/FatherBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/iocshow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/show/ChildBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cglibproxy/TestCglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cglibproxy/MyInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aopdemo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aopdemo/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/.m2/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/JoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/.m2/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar!/org/springframework/aop/config/spring-aop.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aopdemo/aop/ServiceLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aopdemo/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/apodemo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aopdemo/aop/AnnotationAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aop/show/Say.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aop/show/LogBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aop/show/ServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/aopshow.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/aop/show/AopShow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis1/entity/NewsUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis1/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis1/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis1/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis1/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/output.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis/entity/NewsUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/springbatis/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vsc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/propagation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+          <folding>
+            <element signature="n#value#0;n#property#0;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#property#1;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#property#2;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+            <element signature="n#value#0;n#property#3;n#bean#0;n#beans#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-batis1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-batis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/propagation/TestPropagation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/propagation/TestPropagation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
