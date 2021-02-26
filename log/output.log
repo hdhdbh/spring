@@ -1,0 +1,16 @@
+15:09:09.352 [main] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7225790e
+15:09:09.487 [main] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 18 bean definitions from class path resource [applicationContext.xml]
+15:09:09.532 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'controller'
+15:09:09.543 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'threeService'
+15:09:09.543 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'threeDao'
+15:09:09.559 [main] DEBUG com.cosplay.beans.Other - 控制层
+15:09:09.559 [main] DEBUG com.cosplay.beans.Other - 服务层....
+15:09:09.560 [main] DEBUG com.cosplay.beans.Other - 数据层....
+15:15:50.158 [main] DEBUG o.s.c.s.ClassPathXmlApplicationContext - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7225790e
+15:15:50.312 [main] DEBUG o.s.b.f.xml.XmlBeanDefinitionReader - Loaded 18 bean definitions from class path resource [applicationContext.xml]
+15:15:50.358 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'controller'
+15:15:50.370 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'threeService'
+15:15:50.370 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - Creating shared instance of singleton bean 'threeDao'
+15:15:50.388 [main] DEBUG com.cosplay.beans.Other - 控制层
+15:15:50.388 [main] DEBUG com.cosplay.beans.Other - 服务层....
+15:15:50.388 [main] DEBUG com.cosplay.beans.Other - 数据层....

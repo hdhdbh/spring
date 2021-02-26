@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="newSpring" uploadOnCheckin="ffa7f882-4052-4563-86fd-8fa31d84c9cb">
+    <serverData>
+      <paths name="newSpring">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="newSpring" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--&lt;!&ndash;    导入外部参数&ndash;&gt;-->
+    <!--    <properties resource="jdbc.properties"></properties>-->
+    <!--    <settings>-->
+    <!--        &lt;!&ndash; 配置log4j输出日志信息 &ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="logImpl" value="LOG4J" />&ndash;&gt;-->
+    <!--&lt;!&ndash;&lt;!&ndash;        自动驼峰对照,表列名为b_id 实体属性名为bId&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="mapUnderscoreToCamelCase"  value="true"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;-开启或者关闭懒加载 延时加载 默认的时候mybatis是关闭赖加载的&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="lazyLoadingEnabled" value="true"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="aggressiveLazyLoading" value="false"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;开启缓存，默认就是开启 针对2级缓存&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="cacheEnabled" value="false"/>&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;-sql执行器&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;-默认就是SIMPLE&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;-REUSE：可以重用sql语句 executeBatch&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        &lt;!&ndash;-BATCH 批量操作数据&ndash;&gt;&ndash;&gt;-->
+    <!--&lt;!&ndash;        <setting name="defaultExecutorType" value="SIMPLE"/>&ndash;&gt;-->
+
+
+    <!--    </settings>-->
+
+    <!--&lt;!&ndash;    实体类别名&ndash;&gt;-->
+    <!--    <typeAliases>-->
+    <!--&lt;!&ndash;        <typeAlias type="entity.User" alias="user_shine"/>&ndash;&gt;&lt;!&ndash;为实体对象起别名&ndash;&gt;-->
+    <!--&lt;!&ndash;        定义实体类所在的package,每个实体类都会自动注册一个别名 = 类名&ndash;&gt;-->
+    <!--        <package name="entity"/>-->
+    <!--    </typeAliases>-->
+    <!--     配置分页插件 -->
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor">
+            <!--helperDialect 方言:就表示此插件针对哪个数据库进行优化处理
+            这个方言可以不配置,因为此插件可以依据你的 url 的信息来推断出
+            你用的数据库是哪一个
+            -->
+            <property name="helperDialect" value="mysql"/>
+            <!--分页合理化参数-->
+            <property name="reasonable" value="true"/>
+        </plugin>
+    </plugins>
+    <mappers>
+        <!--        通过xml配置sql-->
+        <mapper resource="mapper/UserMapper.xml"/>
+        <!--        //通过注解的方式去配置sql-->
+        <!--        <mapper class="dao.AnnotationMapper"></mapper>-->
+        <!-- 通过包的方式去引入
+              <package name="market.mapper"/>
+              -->
+
+    </mappers>
+
+</configuration>

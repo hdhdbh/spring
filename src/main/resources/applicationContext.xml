@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+    http://www.springframework.org/schema/util
+	http://www.springframework.org/schema/util/spring-util-3.1.xsd" default-lazy-init="true">
+
+    <bean id="HelloWorld" class="com.cosplay.beans.HelloWorld"><!--lazy-init="true"-->
+        <!--        <property name="name">-->
+        <!--            <value>吃饭了!!!</value>-->
+        <!--        </property>-->
+        <property name="name" value="吃饭了!!!"></property>
+    </bean>
+
+    <bean id="car" class="com.cosplay.beans.Car">
+        <constructor-arg value="Audi" index="0"></constructor-arg>
+        <!--        <constructor-arg value="Shanghai" index="1"></constructor-arg>-->
+        <constructor-arg index="1">
+            <value><![CDATA[<上海^>]]></value>
+        </constructor-arg>
+        <constructor-arg value="300000" type="double"></constructor-arg>
+    </bean>
+
+    <bean id="car2" class="com.cosplay.beans.Car">
+        <constructor-arg value="Baoma" type="java.lang.String"></constructor-arg>
+        <constructor-arg value="Shanghai" type="java.lang.String"></constructor-arg>
+        <constructor-arg value="250" type="int"></constructor-arg>
+    </bean>
+
+    <bean id="person" class="com.cosplay.beans.Person">
+        <property name="name" value="Laoyang"></property>
+        <property name="age" value="16"></property>
+        <!--        <property name="car"><ref bean="car"/> </property>-->
+        <!--        <property name="car" ref="car2"></property>-->
+        <property name="car">
+            <bean class="com.cosplay.beans.Car">
+                <constructor-arg value="Ford"></constructor-arg>
+                <constructor-arg value="Changan"></constructor-arg>
+                <constructor-arg value="200000" type="double"></constructor-arg>
+            </bean>
+        </property>
+    </bean>
+
+    <bean id="person2" class="com.cosplay.beans.Person">
+        <constructor-arg value="laoliang"></constructor-arg>
+        <constructor-arg value="25"></constructor-arg>
+        <!--        注入null值-->
+        <constructor-arg>
+            <null></null>
+        </constructor-arg>
+
+        <!--        <constructor-arg ref="car"></constructor-arg>-->
+        <!--级联赋值,注意:属性需要先初始化才可以级联赋值,否则会有异常-->
+        <!--        <property name="car.maxSpeed" value="250"></property>-->
+    </bean>
+
+    <bean id="person3" class="com.cosplay.beans.collection.Person">
+        <property name="name" value="laoyang"></property>
+        <property name="age" value="16"></property>
+        <property name="cars">
+            <list>
+                <ref bean="car"></ref>
+                <ref bean="car2"></ref>
+                <bean class="com.cosplay.beans.Car">
+                    <constructor-arg value="Ford"></constructor-arg>
+                    <constructor-arg value="Changan"></constructor-arg>
+                    <constructor-arg value="200000" type="double"></constructor-arg>
+                </bean>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="person4" class="com.cosplay.beans.collection.NewPerson">
+        <property name="name" value="laoyang"></property>
+        <property name="age" value="16"></property>
+        <property name="cars">
+            <map>
+                <entry key="Aa" value-ref="car"></entry>
+                <entry key="bb" value-ref="car2"></entry>
+            </map>
+        </property>
+    </bean>
+
+    <bean id="dataSource" class="com.cosplay.beans.collection.DataSource">
+        <property name="properties">
+            <props>
+                <prop key="user">root</prop>
+                <prop key="password">123456</prop>
+                <prop key="url">jdbc:mysql:///mybatis</prop>
+                <prop key="driverClass">com.mysql.jdbc.Driver</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="person5" class="com.cosplay.beans.Person" p:age="30" p:name="qwww" p:car-ref="car">
+
+    </bean>
+
+    <util:list id="cars">
+        <ref bean="car"/>
+        <ref bean="car2"/>
+    </util:list>
+    <bean id="person6" class="com.cosplay.beans.collection.Person" p:age="30" p:name="asda" p:cars-ref="cars"></bean>
+
+    <bean id="person7" class="com.cosplay.beans.collection.Person">
+        <property name="name" value="asda"/>
+        <property name="age" value="111"/>
+        <property name="cars" ref="cars"/>
+    </bean>
+
+    <bean id="other" class="com.cosplay.beans.Other" init-method="init" destroy-method="destroy"
+          lazy-init="true"></bean>
+
+    <!--    测试单例和多例模式-->
+    <!--    prototype 多例模式-->
+    <bean id="scopeBean" class="com.cosplay.beans.ScopeBean" scope="prototype"></bean>
+
+    <!--    测试单例模式 singleton 默认为单例模式-->
+    <bean id="scopeBean1" class="com.cosplay.beans.ScopeBean" scope="singleton"></bean>
+
+    <!--    三层模式bean配置-->
+    <!--    数据层-->
+    <bean id="threeDao" class="com.cosplay.beans.Dao">
+
+    </bean>
+    <!--    服务层-->
+    <!--    <bean id="threeService" class="com.cosplay.beans.Service">-->
+    <!--        <property name="mapper" ref="threeDao"></property>-->
+    <!--    </bean>-->
+
+    <!--    <bean id="controller" class="com.cosplay.beans.Controller">-->
+    <!--        <property name="service" ref="threeService"/>-->
+    <!--    </bean>-->
+</beans>
+
