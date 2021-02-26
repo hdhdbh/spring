@@ -25,7 +25,7 @@ public class TestPropagation1 {
 //        test1.testREQUIRES_NEW1();
 //        test1.testNOT_SUPPORTED();
 //        test1.testNEVER();
-        test1.testNESTED();
+//        test1.testNESTED();
     }
 
     @Transactional(propagation = Propagation.REQUIRED)
